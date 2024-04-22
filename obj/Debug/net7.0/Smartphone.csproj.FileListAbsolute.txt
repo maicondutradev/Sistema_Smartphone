@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\bin\Debug\net7.0\Smartphone.exe
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\bin\Debug\net7.0\Smartphone.deps.json
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\bin\Debug\net7.0\Smartphone.runtimeconfig.json
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\bin\Debug\net7.0\Smartphone.dll
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\bin\Debug\net7.0\Smartphone.pdb
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.AssemblyInfo.cs
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.sourcelink.json
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.dll
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\refint\Smartphone.dll
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.pdb
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\Smartphone.genruntimeconfig.cache
+C:\Users\maico\Documents\Sistema_Smartphone\Smartphone\obj\Debug\net7.0\ref\Smartphone.dll
